@@ -34,9 +34,11 @@ let weatherURL = "https://api.openweathermap.org/data/2.5/weather?appid=YOUR_API
 ## App Preview
 
 Dark Mode
+
 ![](Documentation/dark.png)
 
 Light Mode
+
 ![](Documentation/light.png)
 
 ## Note:
